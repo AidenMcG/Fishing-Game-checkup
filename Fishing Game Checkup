@@ -1,0 +1,23 @@
+# Status Report
+
+#### Your name
+Aiden McGonagle
+
+#### Your section leader's name
+Professor Nichols
+
+#### Project title
+Fishing Tourny Classic
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+The item shop is just about completely finished. Most of the code for the first level is complete(once that code is completed, it will be easy to copy that code and modulate it for the next couple of levels).
+
+#### What have you not done for your project yet?
+The levels are not completely complete as of now.
+
+#### What problems, if any, have you encountered?
+The problem that is affecting the levels, is transfering my 'total' variable from class to class. It is successfully transfered, but when it is used in the if/else statements it comes up as a 'None Type' creating an error. 
